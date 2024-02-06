@@ -1,6 +1,6 @@
 #Registration
 
-(registration.jpg)
+![screen](registration.jpg)
 
 #Authentication
 
