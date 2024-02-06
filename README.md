@@ -1,6 +1,6 @@
 #Registration
 
-!(registration)
+(registration.jpg)
 
 #Authentication
 
