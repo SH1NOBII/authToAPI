@@ -4,4 +4,8 @@
 
 #Authentication
 
+![screen](authentication.jpg)
+
 #Endpoints -> Get Current User
+
+![screen](getuser.jpg)
