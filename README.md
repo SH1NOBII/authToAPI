@@ -1,5 +1,7 @@
 #Registration
-(registration)
+
+!(registration)
+
 #Authentication
 
 #Endpoints -> Get Current User
